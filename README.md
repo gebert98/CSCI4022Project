@@ -1,6 +1,6 @@
 # Coral Reef Bleaching Analysis
 
-**Course:** CSCI XXXX - Data Science  
+**Course:** CSCI 4022 - Advanced Data Science  
 **Date:** Spring 2026  
 
 ## Overview
