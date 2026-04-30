@@ -25,7 +25,7 @@ https://doi.org/10.26008/1912/bco-dmo.773466.2
 ## Structure
 - `AnalysisA.ipynb` — Full dataset analysis  
 - `AnalysisB.ipynb` — Aggregated reef-level analysis  
-- `data/` — Cleaned datasets  
+- `cleaned_data/` — Cleaned datasets  
 
 ## Author
 Gaeryth Ebert
